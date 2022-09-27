@@ -51,8 +51,8 @@
     display: block;
 }
 
-/* .shell {
-border: 4px solid lightgreen;
-} */
+app {
+    opacity: .65;
+}
 
 

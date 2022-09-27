@@ -3,7 +3,7 @@ import ShellGame from './ShellGame';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <ShellGame/>
     </div>
   );
